@@ -64,7 +64,9 @@
     }
   </style>
 </head>
-<body>
+
+
+### <body>
   <div class="container">
     <h1>Resume Builder</h1>
     <div class="form-group">
@@ -100,7 +102,7 @@
     </div>
   </div>
 
-  <script>
+  ### <script>
     function buildResume() {
       const name = document.getElementById("name").value;
       const email = document.getElementById("email").value;
